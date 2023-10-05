@@ -4,7 +4,7 @@ import json
 import time
 import subprocess
 
-############# command line arguments #############
+############# arguments #############
 
 # mongo.exe directory
 MONGO_DIR = "C:/Program Files/MongoDB/Server/7.0/bin" 
